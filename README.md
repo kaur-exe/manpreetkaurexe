@@ -1,5 +1,6 @@
 -  Hi, I’m Manpreet
-- <img width="342" height="480" alt="image" src="https://github.com/user-attachments/assets/6bdad3f0-08df-4c4f-8f17-f9f7a323f6f9" />
+- ![gilmore-clube-gilmore-girls](https://github.com/user-attachments/assets/04a4f8db-769f-40fb-a727-23484a8dbb16)
+
 
 
 
