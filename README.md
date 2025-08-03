@@ -1,5 +1,5 @@
--  Hi, I’m Manpreet
-- ![gilmore-clube-gilmore-girls](https://github.com/user-attachments/assets/04a4f8db-769f-40fb-a727-23484a8dbb16)
+-  Hi, I’m Manpreet. I like code and read books.
+ ![gilmore-clube-gilmore-girls](https://github.com/user-attachments/assets/04a4f8db-769f-40fb-a727-23484a8dbb16)
 
 
 
