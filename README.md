@@ -1,4 +1,4 @@
--  Hi, I’m Manpreet. I like code and read books.
+-  Hi, I’m Manpreet. I like to code and read books.
 
 
 
