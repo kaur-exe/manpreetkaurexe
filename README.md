@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi I'm Manpreet. <br> Build, break, and reimagine ideas at the intersection of **code, creativity, and intelligence**.  <br>Currently obsessed with **Generative AI**, **Machine Learning**, and scaling models from concept to production.  <br><br>---<br><br>## 🚀 What I’m Diving Into<br>- 🧬 **Generative AI** — LLM fine-tuning, embeddings, and multi-agent systems  <br>- 📊 **Machine Learning** — end-to-end pipelines, model optimization, MLOps  <br>- 🏎 **Data Structures & Algorithms** — writing clean, performant, and elegant solutions  <br>- 🌐 **Product Thinking** — building AI tools that people *actually* love using  <br>---<br><br>## 🛠 Tech Playground<br>**Languages:** Python, Java, C++  <br>**ML/AI:** PyTorch, TensorFlow, LangChain, OpenAI API, Hugging Face  <br>**Data & Cloud:** SQL, Pandas, NumPy, AWS, GCP  <br>**Other Loves:** FastAPI, Git, Docker  <br><br>---<br><br>## 🧪 Current Experiments<br>- 🗣 Fine-tuning LLMs for niche domain expertise  <br>- 🔍 AI-powered knowledge retrieval with embeddings  <br>- 🎨 Creative Gen-AI projects that merge art + code  <br><br>---<br><br>📫 **Let’s talk AI, code, or cool side projects:**  <br>[LinkedIn](https://www.linkedin.com/in/kaurmanpreet013/)|[Twitter](https://x.com/thefireflyspark) | [Email](kaur.exe@gmail.com)  <br><br>> *"Code it. Train it. Ship it. Repeat."*<br>
 
 
@@ -12,9 +12,6 @@ Hi I'm Manpreet. <br> Build, break, and reimagine ideas at the intersection of *
 ![](https://nirzak-streak-stats.vercel.app/?user=kaur-exe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaur-exe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kaur-exe&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -24,11 +21,7 @@ Hi I'm Manpreet. <br> Build, break, and reimagine ideas at the intersection of *
 ---
 [![](https://visitcount.itsvg.in/api?id=kaur-exe&icon=9&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
- ![gilmore-clube-gilmore-girls](https://github.com/user-attachments/assets/04a4f8db-769f-40fb-a727-23484a8dbb16)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
 
 
 
